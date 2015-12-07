@@ -1,5 +1,5 @@
 # meteor-react-flux-example
-This is an example with Meteor, React and Flux architecture, trying out Session,Reactive Variables and React States
+This is an example with Meteor, React and Flux architecture, trying out Reactive Variables, Sessions and React States
 
 ## Documentation
 - [Meteor](http://docs.meteor.com/#/basic/)
